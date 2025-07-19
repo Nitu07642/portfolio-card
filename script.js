@@ -33,7 +33,7 @@
 
     function downloadResume() {
       const a = document.createElement('a');
-      a.href = 'https://example.com/Nitu_Resume.pdf';
+      a.href = 'https://drive.google.com/file/d/1ICSk92qsIFKYa0cagpca6GlxECO7aqNR/view?usp=drivesdk';
       a.download = 'Nitu_Kumari_Resume.pdf';
       a.click();
     }
